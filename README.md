@@ -24,7 +24,7 @@
   </thead>
   <tbody>
     <tr>
-      <td style="font-size:40px;">simple</td>
+      <td style="font-size:40px !important;">simple</td>
       <td>- <sub>Upload parent image and child image</sub><br>- <sub>Get ancestry of child image</sub> <br>- <sub>Verify child and parent image ids</sub></td>
       <td><sub>Fail</sub></td>
       <td><sub>Pass</sub></td>
