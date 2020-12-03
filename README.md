@@ -7,7 +7,30 @@
 
 # Hi 
 
+#### Go Docker Registry incompatibility with Python Docker Registry
 
+##### [Python Docker Registry Test Suite](https://github.com/budhrg/docker-registry/tree/real_http_tests/tests)
+
+<!--
+<sub>...</sub> is used to make font size small
+-->
+
+<table>
+  <thead>
+    <tr>
+      <th><sub>Test Case</sub></th>
+      <th><sub>Brief Explanation</sub></th><th><sub>Go Result</sub></th><th><sub>Python Result</sub></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><sub>simple</sub></td>
+      <td>- <sub>Upload parent image and child image</sub><br>- <sub>Get ancestry of child image</sub> <br>- <sub>Verify child and parent image ids</sub></td>
+      <td><sub>Fail</sub></td>
+      <td><sub>Pass</sub></td>
+    </tr>
+  </tbody>
+</table>
 
 Table Header | Second Header
 ------------- | -------------
