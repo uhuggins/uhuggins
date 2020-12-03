@@ -1,3 +1,15 @@
+
+
+<style>
+.table {
+    width: 100%;
+    max-width: 100%;
+    font-size: 40px;
+    margin-bottom: 20px;
+}
+</style>
+
+
 ### Hi there 👋
 
 
