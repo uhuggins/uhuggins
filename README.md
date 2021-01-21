@@ -1,13 +1,13 @@
-### Uma
+<div>
+     <img src="./images/me.svg" style="display:inline-block;vertical-align:middle;" height="48" width="48" />
+     <h3 style="display:inline-block;">Hey there! I'm Uma. </h3>
+</div>
+<p> I'm a data oriented full stack developer with a focus on visualization.</p>
 
-[![Gmail Badge](https://img.shields.io/badge/-uma@ctzn.pub-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ishagupta2103@gmail.com)](mailto:uma@ctzn.pub)
-
-<img src="./images/me.svg"  height="48" width="48" > Hey there! I'm Uma.
-
-<h3> 👩🏻‍💻 &nbsp;About Me </h3>
-
-- 📈 &nbsp; Data oriented full stack developer with a focus on visualization
-
+<div>
+<img  style="display:inline-block;" height="100em" src="https://github-readme-stats.vercel.app/api?username=uhuggins&theme=buefy&show_icons=true" />
+   <img height="100em"style="display:inline-block;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=uhuggins&theme=buefy&layout=compact" />
+</div>
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
 - 💻 &nbsp;
@@ -36,11 +36,6 @@
   ![Highcharts](https://img.shields.io/badge/-Highcharts.js-48DAD0?style=flat-square)
 
 <br/>
-
-<a href="https://github.com/uhuggins">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=uhuggins&theme=buefy&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=uhuggins&theme=buefy&layout=compact" />
-</a>
 
 <br/>
 
