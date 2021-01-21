@@ -4,10 +4,6 @@
 </div>
 <p> I'm a data oriented full stack developer with a focus on visualization.</p>
 
-<div>
-<img  style="display:inline-block;" height="100em" src="https://github-readme-stats.vercel.app/api?username=uhuggins&theme=buefy&show_icons=true" />
-   <img height="100em"style="display:inline-block;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=uhuggins&theme=buefy&layout=compact" />
-</div>
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
 - 💻 &nbsp;
@@ -37,6 +33,7 @@
 
 <br/>
 
-<br/>
-
-⭐️ From [uhuggins](https://github.com/uhuggins)
+<div>
+<img  style="display:inline-block;" height="180em" src="https://github-readme-stats.vercel.app/api?username=uhuggins&show_icons=true&theme=radical" />
+   <img height="180em"style="display:inline-block;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=uhuggins&theme=radical&layout=compact" />
+</div>
