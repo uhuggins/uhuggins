@@ -35,5 +35,4 @@
 
 <div>
 <img  style="display:inline-block;" height="180em" src="https://github-readme-stats.vercel.app/api?username=uhuggins&show_icons=true&theme=radical" />
-   <img height="180em"style="display:inline-block;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=uhuggins&theme=radical&layout=compact" />
 </div>
