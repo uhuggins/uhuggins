@@ -4,5 +4,8 @@
 </div>
 Making 📈 📊 and 
 🗺️ with 
-    ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python) / ![R (Statistics)](https://img.shields.io/badge/-R-333333?style=flat&logo=R&logoColor=276DC3)  / ![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white). 
+    
+- ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python) 
+- ![R (Statistics)](https://img.shields.io/badge/-R-333333?style=flat&logo=R&logoColor=276DC3)
+- ![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white). 
  
